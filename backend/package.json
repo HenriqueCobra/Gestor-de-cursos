@@ -1,7 +1,7 @@
 {
-  "name": "trabalho_bd",
+  "name": "gestor-de-cursos-backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "API REST do Gestor de Cursos",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

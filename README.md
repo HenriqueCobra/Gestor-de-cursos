@@ -1,4 +1,4 @@
-﻿# 🎓 Gestor de Cursos - Sistema de Gestão Acadêmica Fullstack
+# 🎓 Gestor de Cursos - Sistema de Gestão Acadêmica Fullstack
 
 [![Node.js](https://img.shields.io/badge/Node.js-v18+-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
@@ -102,7 +102,7 @@ $$\text{Papel} = (\text{tipo} \ \& \ \text{máscara}) \neq 0$$
 ## 📁 Estrutura de Diretórios
 
 ```
-Bd-main/
+gestor-de-cursos/
 ├── backend/                       # API REST em Node.js / Express
 │   ├── .env.example               # Exemplo de configuração de ambiente
 │   ├── package.json               # Dependências do backend (express, bcryptjs, mysql2)
@@ -134,7 +134,7 @@ Bd-main/
 
 ### 1. Clonar o Repositório
 ```bash
-git clone https://github.com/seu-usuario/gestor-de-cursos.git
+git clone https://github.com/HenriqueCobra/Gestor-de-cursos.git
 cd gestor-de-cursos
 ```
 
